@@ -1,14 +1,12 @@
 <html>
 
-<head></head>
+<head><b><big><big><big>Sample of page with only HTML tags</b> <hr></head>
 <body>
-
-<b><big><big><big>Sample of page with only HTML tags</b> <hr>
 
 <table>
     <tr>
         <td> <ol><img src="./driver.jpg", width="175", height="275"></ol>
-            <ol><i><b>Babby driver</b></i></ol>
+            <ol><b>Babby driver</b></ol>
         </td>
         <td>
             <ol>
@@ -25,7 +23,7 @@
             </ol>
         </td>
         <td> <ol><img src="./shon.jpg", width="175", height="275"></ol>
-            <ol><i><b>Shaun of the dead</b></i></ol>
+            <ol><b>Shaun of the dead</b></ol>
         </td>
         <td>
             <ol>
@@ -49,7 +47,7 @@
     <tr>
         <td>
         <ol><img src="./hotfuzz.jpg", width="175", height="275"></ol>
-        <ol><i><b>Hot fuzz</b></i></ol>
+        <ol><b>Hot fuzz</b></ol>
         </td>
     <td>
         <ol>
@@ -71,7 +69,7 @@
         </ol>
     </td>
     <td><ol><img src="./scott.jpg", width="175", height="275"></ol>
-    <ol><i><b>Scott Pilgrim VS the world</b></i></ol>
+    <ol><b>Scott Pilgrim VS the world</b></ol>
     </td>
     <td>
         <ol>

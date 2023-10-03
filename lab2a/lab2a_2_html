@@ -1,0 +1,56 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<head>
+    <body>
+        <div class="container1">
+            <div class="text1">
+                Speak to our expert <br>
+                at <img src="./c4198af08cbf6b66b043b30748676ade.jpg" width="25" height="25"> <big class="text2">1-800-453-6744</big>
+            </div>
+        </div>
+        <div class="container2">
+        </div>
+        <div class="photo">
+            <img src="./bnbn.jpg" width="483" height="300">
+            <div class="text3">
+                Dolomite Alps
+            </div>
+        </div>
+        <div class="photo2">
+            <img src="./jkkjjk.jpg" width="225" height="180">
+            <div class="text4">
+                Iceland
+            </div>
+        </div>
+        <div class="photo3">
+            <img src="./rtrt.jpg" width="225" height="180">
+            <div class="text5">
+                Ethiopia
+            </div>
+        </div>
+        <div class="photo4">
+            <img src="./tt.jpg" width="230" height="180">
+            <div class="text6">
+                Nepal
+            </div>
+        </div>
+        <div class="photo5">
+            <img src="./jhjhjh.jpg" width="230" height="180">
+            <div class="text7">
+                Kenia
+            </div>
+        </div>
+        <div class="photo6">
+            <img src="./nbn.jpg" width="470" height="300">
+            <div class="text8">
+                New Zeland
+            </div>
+        </div>
+        <div class="text9">
+            <small><em>Images from <u>Freepik</u></em></small>
+        </div>
+    </body>
+</head>
+</html>

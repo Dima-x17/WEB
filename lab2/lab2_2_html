@@ -1,62 +1,72 @@
 <html>
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <head>
+        <link rel="stylesheet" href="style2.css">
+    </head>
     <body>
-        <div class="container">
-            <img src="./photo-1544259342-306eccfec481.jpg", width="110%", height="110%">
-        </div>
-        <div class="text1">
-            <b><big><big><big><big><big>Contact Us</big></big></big></big></big>
-        </div>
-        <div class="line">
-            <br>
-        </div>
-        <div class="text2">
-            Nisl nisi scelerisque eu ultrices vitae eu. Nulla at volutpat diam ut <br>
-            venenatis tellus in metus vulputate. Ultrices mu qius hendrerit dolor magna.
-        </div>
-        <div class="container2">
-            <div class="photo1">
-                <img src="./address-icon-15.png" width="75" height="75">
+        <div class="block1">
+            <div class="block2">
+                <div class="text1">
+                   <b>Contact Us</b>
+                </div>
+                <div class="line1">
+                    <br>
+                </div>
+                <div class="text2">
+                    Nisl nisi scelerisque eu ultrices vitae eu. Nulla at volutpat diam ut <br>
+                    venenatis tellus in metus vulputate. Ultrices mu qius hendrerit dolor magna.
+                </div>
             </div>
-            <div class="text3">
-                <big>Address:</big>
+            <div class="block3">
+                <div class="container">
+                    <div class="wth1">
+                        <div class="photo1">
+                            <img src="./address-icon-15.png" width="75" height="75">
+                        </div>
+                        <div class="text3">
+                            Address:
+                        </div>
+                        <div class="text6">
+                            <p> 121 Rock Sreet, 21 Avenue, <br> New York, NY 92103-9000
+                        </div>
+                    </div>
+                    <div class="wth2">
+                        <div class="photo2">
+                            <img src="./Email-Symbol-PNG-Transparent-Picture.png" width="75" height="75">
+                        </div>
+                        <div class="text4">
+                            Email:
+                        </div>
+                        <div class="text7">
+                            <u><b>
+                                hello@company.com <br>
+                                support@company.com
+                            </u></b>
+                        </div>
+                    </div>
+                    <div class="wth3">
+                        <div class="photo3">
+                            <img src="./contact-us-20.png" width="75" height="75">
+                        </div>
+                        <div class="text5">
+                            Call us:
+                        </div>
+                        <div class="text8">
+                            1 (234) 567-891 <br>
+                            1 (234) 987-654
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="text4">
-                <p> <small>121 Rock Sreet, 21 Avenue, <br> New York, NY 92103-9000</small>
+            <div class="block4">
+                <div class="text9">
+                    Images from <u>Freepik</u>
+                </div>
             </div>
-            <div class="photo2">
-                <img src="./Email-Symbol-PNG-Transparent-Picture.png" width="75" height="75">
-            </div>
-            <div class="text5">
-                <big> Email:</big>
-            </div>
-            <div class="text6">
-                <u><b>
-                    hello@company.com <br>
-                    support@company.com
-                </u></b>
-            </div>
-            <div class="photo3">
-                <img src="./contact-us-20.png" width="75" height="75">
-            </div>
-            <div class="text7">
-                <big>Call us:</big>
-            </div>
-            <div class="text8">
-                1 (234) 567-891 <br>
-                1 (234) 987-654
-            </div>
-        </div>
-        <div class="text9">
-            Images from <u>Freepik</u>
-        </div>
-        <div class="container3">
-            <br>
-            <div class="text10">
-                <small>Sample text. Click to select the text box. Click again or double <br>
-                    click to start editing the text.</small>
+            <div class="container2">
+                <div class="text10">
+                    Sample text. Click to select the text box. Click again or double <br>
+                    click to start editing the text.
+                </div>
             </div>
         </div>
     </body>
